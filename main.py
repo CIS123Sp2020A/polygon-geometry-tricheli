@@ -1,5 +1,4 @@
 #Tenisce Richelieu. 
-#You will write a program that creates a base class Polygon with the following details:
 import math
 
 #class Polygon
